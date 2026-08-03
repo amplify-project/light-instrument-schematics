@@ -11,4 +11,6 @@ The repository is organised as follows:
   piezoelectric element. Filters and thresholds the signal from the
   piezoelectric element through an operational amplifier so it can be safely
   measured by a microcontroller.
-
+- `multiplexer/`: A board for connecting up to 8 sensors to a Seeed XIAO
+  ESP32-S3 through a CD4051BE analog multiplexer. The number of channels can be
+  selected with a dip-switch.
