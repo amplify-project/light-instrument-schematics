@@ -7,4 +7,8 @@ The repository is organised as follows:
 
 - `debouncer/`: A hardware switch debouncer based around a 555 timer IC. Used
   in the key instrument
+- `vibration_detector/`: A circuit for detecting vibrations by means of a
+  piezoelectric element. Filters and thresholds the signal from the
+  piezoelectric element through an operational amplifier so it can be safely
+  measured by a microcontroller.
 
