@@ -1,7 +1,7 @@
 # Light Instrument Schematics
 
-This repository contains the schematics for the eletronics that are used to
-power the AMPLIFY Light Instruments.
+This repository contains the schematics and bills of materials for the
+eletronics that are used to power the AMPLIFY Light Instruments.
 
 The repository is organised as follows:
 

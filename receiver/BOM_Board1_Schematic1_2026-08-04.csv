@@ -1,0 +1,4 @@
+﻿"No.","Quantity","Comment","Designator","Footprint","Value","Manufacturer Part","Manufacturer"
+"1","4","436500300","LED1,LED2,LED3,LED4","CONN-TH_3P-436500300","","436500300","MOLEX"
+"2","1","DG381-3.5-02P-14-00A(H)","PWR","CONN-TH_2P-P3.50_DG381-3.5-02P-14-00A","","DG381-3.5-02P-14-00A(H)","DEGSON(高正/高松)"
+"3","1","SEEED XIAO ESP32S3","U1","SEEEDUINO XIAO ESP32S3","","Xiao","Seeeduino"

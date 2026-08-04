@@ -1,0 +1,8 @@
+﻿"No.","Quantity","Comment","Designator","Footprint","Value","Manufacturer Part","Manufacturer"
+"1","1","1u","C1","CAP-D5.0×F2.0","","",""
+"2","1","1nF","C2","RAD-0.1","","",""
+"3","1","1k","R1","R_AXIAL-0.3","","",""
+"4","1","100k","R2","R_AXIAL-0.3","","",""
+"5","1","2.54-2P WZDK-R PITCH CONNECTOR","SW","CONN-TH_2.54-2P-WZDK-R-PITCH-CONNECTOR","","2.54-2P WZDK-R Pitch Connector","SHOU HAN(首韩)"
+"6","1","NE555P3","U1","PDIP-8_L9.6-W6.4-P2.54-LS7.9-BL-1","","NE555P3","TI(德州仪器)"
+"7","1","JST_3PIN_2.54MM","U2","3PIN_2.54_MM_JST_XHP_JST_CONNECTOR-TRUNG","","",""

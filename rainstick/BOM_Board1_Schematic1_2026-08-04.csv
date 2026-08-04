@@ -1,0 +1,5 @@
+﻿"No.","Quantity","Comment","Designator","Footprint","Value","Manufacturer Part","Manufacturer"
+"1","4","2.54-2P WZDK-R PITCH CONNECTOR","BATT1,IR_LED1,IR_LED2,PHOTODIODE","CONN-TH_2.54-2P-WZDK-R-PITCH-CONNECTOR","","2.54-2P WZDK-R Pitch Connector","SHOU HAN(首韩)"
+"2","1","4k7","R1","R_AXIAL-0.4","","",""
+"3","2","100","R2,R3","R_AXIAL-0.4","","",""
+"4","1","SEEED XIAO ESP32S3","U1","SEEEDUINO XIAO ESP32S3","","Xiao","Seeeduino"
