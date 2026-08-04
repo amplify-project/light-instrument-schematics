@@ -17,4 +17,7 @@ The repository is organised as follows:
 - `receiver/`: A board fitted with a Seeed XIAO ESP32-S3 and Molex 436500300
   connectors for connecting up to four WS2812B LED strips, acting as a receiver
   for LED commands.
-
+- `rainstick/`: A board fitted with a Seeed XIAO ESP32-S3, a photodiode and two
+  infrared LEDs. The LEDs and the photodiode form an IR-barrier, which when
+  broken is measured as an analog signal, thereby detecting the moving of
+  percussive media inside the rainstick instrument.
