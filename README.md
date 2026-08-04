@@ -27,3 +27,6 @@ The repository is organised as follows:
 - `imu-shaker/`: A revised version of the schematic found in `tiltswitch/`,
   based around a Seeed XIAO ESP32-S3 and a MPU-6050 or MMA8451 IMU instead of a
   tiltswitch for activity detection on any axis.
+- `input/`: A simpler version of the schematic found in `multiplexer/` with a
+  fixed number of three ports, obviating the need for the multiplexer IC.
+  Used in the touch instrument.
