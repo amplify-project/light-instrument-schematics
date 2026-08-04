@@ -24,3 +24,6 @@ The repository is organised as follows:
 - `tiltswitch/`: Schematic for a board to be integrated into a maraca, based
   around a Seeed XIAO ESP32-S3 connected to a tilt switch to detect the shaking
   of the maraca.
+- `imu-shaker/`: A revised version of the schematic found in `tiltswitch/`,
+  based around a Seeed XIAO ESP32-S3 and a MPU-6050 or MMA8451 IMU instead of a
+  tiltswitch for activity detection on any axis.
