@@ -21,3 +21,6 @@ The repository is organised as follows:
   infrared LEDs. The LEDs and the photodiode form an IR-barrier, which when
   broken is measured as an analog signal, thereby detecting the moving of
   percussive media inside the rainstick instrument.
+- `tiltswitch/`: Schematic for a board to be integrated into a maraca, based
+  around a Seeed XIAO ESP32-S3 connected to a tilt switch to detect the shaking
+  of the maraca.
