@@ -30,3 +30,8 @@ The repository is organised as follows:
   piezoelectric element. Filters and thresholds the signal from the
   piezoelectric element through an operational amplifier so it can be safely
   measured by a microcontroller.
+- `vibration_detector2/`: New version of the vibration detection circuit by
+  means of a piezoelectric element. Filters and thresholds the signal from the
+  piezoelectric element through an operational amplifier so it can be safely
+  measured by a microcontroller. This version adds a passive high-pass filter
+  at the output for better signal stability.
